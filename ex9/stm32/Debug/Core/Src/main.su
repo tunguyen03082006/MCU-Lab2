@@ -1,0 +1,7 @@
+main.c:85:6:setRows	16	static
+main.c:112:6:updateLEDMatrix	24	static
+main.c:133:5:main	8	static
+main.c:186:6:SystemClock_Config	72	static
+main.c:222:13:MX_TIM2_Init	32	static
+main.c:267:13:MX_GPIO_Init	32	static
+main.c:323:6:Error_Handler	4	static,ignoring_inline_asm
